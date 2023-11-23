@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evaluacion Banregio</string>
+    <string name="card_number_title">Número de la tarjeta</string>
+    <string name="bank_title">Banco</string>
+    <string name="holder_card_title">Titular de la tarjeta</string>
+    <string name="expiration_date_title">Fecha de expiración</string>
+    <string name="cvv_title">CVV</string>
+    <string name="cvv_generate_value">Generar CVV</string>
+</resources>
